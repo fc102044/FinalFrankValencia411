@@ -20,6 +20,7 @@ class _HomeScreenState extends State<HomeScreen> {
   String _email = '';
   String _emailError = '';
   bool _emailShowError = false;
+  TextEditingController _emailController = TextEditingController();
 
   String _Like = '';
   String _LikeError = '';
@@ -36,12 +37,17 @@ class _HomeScreenState extends State<HomeScreen> {
   bool _OtherComentsShowError = false;
   TextEditingController _OtherComentsController = TextEditingController();
 
-  String _Note = '';
+  String _Note = '3';
   String _NoteError = '';
   bool _NoteShowError = false;
-
+  bool _consultadoInicial = false;
   @override
   Widget build(BuildContext context) {
+    Future.delayed(Duration(seconds: 2), () {
+      if (!_consultadoInicial) {
+        _GetData();
+      }
+    });
     return Scaffold(
       appBar: AppBar(
         title: Text('Home'),
@@ -51,14 +57,20 @@ class _HomeScreenState extends State<HomeScreen> {
   }
 
   Widget _getBody() {
-    return Column(
-      children: <Widget>[
-        _showEmail(),
-        _showNote(),
-        _showLike(),
-        _showDontLike(),
-        _showOtherComents(),
-        _showutton()
+    return Stack(
+      children: [
+        SingleChildScrollView(
+          child: Column(
+            children: <Widget>[
+              _showEmail(),
+              _showNote(),
+              _showLike(),
+              _showDontLike(),
+              _showOtherComents(),
+              _showutton()
+            ],
+          ),
+        ),
       ],
     );
   }
@@ -68,6 +80,7 @@ class _HomeScreenState extends State<HomeScreen> {
       padding: EdgeInsets.all(10),
       child: TextField(
         keyboardType: TextInputType.emailAddress,
+        controller: _emailController,
         decoration: InputDecoration(
           fillColor: Colors.white,
           filled: true,
@@ -186,7 +199,8 @@ class _HomeScreenState extends State<HomeScreen> {
       isValid = false;
       _emailShowError = true;
       _emailError = 'Debes ingresar tu email.';
-    } else if (!EmailValidator.validate(_email)) {
+    } else if (!EmailValidator.validate(_email) &&
+        !_email.contains(".itm.edu.co")) {
       isValid = false;
       _emailShowError = true;
       _emailError = 'Debes ingresar un email válido.';
@@ -257,5 +271,30 @@ class _HomeScreenState extends State<HomeScreen> {
             AlertDialogAction(key: null, label: 'Aceptar'),
           ]);
     }
+  }
+
+  void _GetData() async {
+    var url = Uri.parse('${Constans.apiUrl}/Finals');
+    http.Response response = await http.get(
+      url,
+      headers: {
+        'content-type': 'application/json',
+        'accept': 'application/json',
+        'authorization': 'bearer ${widget.token.token}',
+      },
+    );
+    String body = response.body;
+    var decodedJson = jsonDecode(body);
+    ResultFields resultFields = ResultFields.fromJson(decodedJson);
+    _emailController.text = resultFields.email;
+    _email = resultFields.email;
+    _LikeController.text = resultFields.theBest;
+    _Like = resultFields.theBest;
+    _DontLikeController.text = resultFields.theWorst;
+    _DontLike = resultFields.theWorst;
+    _OtherComentsController.text = resultFields.theWorst;
+    _OtherComents = resultFields.theWorst;
+    setState(() {});
+    _consultadoInicial = true;
   }
 }
