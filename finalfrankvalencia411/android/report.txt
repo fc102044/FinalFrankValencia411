@@ -1,0 +1,262 @@
+
+> Task :app:signingReport
+Variant: debug
+Config: debug
+Store: C:\Users\fran-kmiloo\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 4E:9F:4F:30:C5:F8:F0:C8:5C:FE:8A:90:AE:7D:93:94
+SHA1: 05:81:C5:6D:16:77:3B:E5:06:A5:A4:3B:7C:43:C2:77:31:EE:FE:81
+SHA-256: 3F:F8:4C:D2:24:5D:EC:F3:FD:48:D1:3F:B7:37:C6:01:AF:DF:BB:77:7F:2A:71:83:29:DA:02:84:3F:A1:9C:8A
+Valid until: miércoles, 17 de marzo de 2049
+----------
+Variant: release
+Config: debug
+Store: C:\Users\fran-kmiloo\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 4E:9F:4F:30:C5:F8:F0:C8:5C:FE:8A:90:AE:7D:93:94
+SHA1: 05:81:C5:6D:16:77:3B:E5:06:A5:A4:3B:7C:43:C2:77:31:EE:FE:81
+SHA-256: 3F:F8:4C:D2:24:5D:EC:F3:FD:48:D1:3F:B7:37:C6:01:AF:DF:BB:77:7F:2A:71:83:29:DA:02:84:3F:A1:9C:8A
+Valid until: miércoles, 17 de marzo de 2049
+----------
+Variant: profile
+Config: debug
+Store: C:\Users\fran-kmiloo\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 4E:9F:4F:30:C5:F8:F0:C8:5C:FE:8A:90:AE:7D:93:94
+SHA1: 05:81:C5:6D:16:77:3B:E5:06:A5:A4:3B:7C:43:C2:77:31:EE:FE:81
+SHA-256: 3F:F8:4C:D2:24:5D:EC:F3:FD:48:D1:3F:B7:37:C6:01:AF:DF:BB:77:7F:2A:71:83:29:DA:02:84:3F:A1:9C:8A
+Valid until: miércoles, 17 de marzo de 2049
+----------
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\fran-kmiloo\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 4E:9F:4F:30:C5:F8:F0:C8:5C:FE:8A:90:AE:7D:93:94
+SHA1: 05:81:C5:6D:16:77:3B:E5:06:A5:A4:3B:7C:43:C2:77:31:EE:FE:81
+SHA-256: 3F:F8:4C:D2:24:5D:EC:F3:FD:48:D1:3F:B7:37:C6:01:AF:DF:BB:77:7F:2A:71:83:29:DA:02:84:3F:A1:9C:8A
+Valid until: miércoles, 17 de marzo de 2049
+----------
+Variant: debugUnitTest
+Config: debug
+Store: C:\Users\fran-kmiloo\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 4E:9F:4F:30:C5:F8:F0:C8:5C:FE:8A:90:AE:7D:93:94
+SHA1: 05:81:C5:6D:16:77:3B:E5:06:A5:A4:3B:7C:43:C2:77:31:EE:FE:81
+SHA-256: 3F:F8:4C:D2:24:5D:EC:F3:FD:48:D1:3F:B7:37:C6:01:AF:DF:BB:77:7F:2A:71:83:29:DA:02:84:3F:A1:9C:8A
+Valid until: miércoles, 17 de marzo de 2049
+----------
+Variant: releaseUnitTest
+Config: debug
+Store: C:\Users\fran-kmiloo\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 4E:9F:4F:30:C5:F8:F0:C8:5C:FE:8A:90:AE:7D:93:94
+SHA1: 05:81:C5:6D:16:77:3B:E5:06:A5:A4:3B:7C:43:C2:77:31:EE:FE:81
+SHA-256: 3F:F8:4C:D2:24:5D:EC:F3:FD:48:D1:3F:B7:37:C6:01:AF:DF:BB:77:7F:2A:71:83:29:DA:02:84:3F:A1:9C:8A
+Valid until: miércoles, 17 de marzo de 2049
+----------
+Variant: profileUnitTest
+Config: debug
+Store: C:\Users\fran-kmiloo\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 4E:9F:4F:30:C5:F8:F0:C8:5C:FE:8A:90:AE:7D:93:94
+SHA1: 05:81:C5:6D:16:77:3B:E5:06:A5:A4:3B:7C:43:C2:77:31:EE:FE:81
+SHA-256: 3F:F8:4C:D2:24:5D:EC:F3:FD:48:D1:3F:B7:37:C6:01:AF:DF:BB:77:7F:2A:71:83:29:DA:02:84:3F:A1:9C:8A
+Valid until: miércoles, 17 de marzo de 2049
+----------
+
+> Task :connectivity:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\fran-kmiloo\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 4E:9F:4F:30:C5:F8:F0:C8:5C:FE:8A:90:AE:7D:93:94
+SHA1: 05:81:C5:6D:16:77:3B:E5:06:A5:A4:3B:7C:43:C2:77:31:EE:FE:81
+SHA-256: 3F:F8:4C:D2:24:5D:EC:F3:FD:48:D1:3F:B7:37:C6:01:AF:DF:BB:77:7F:2A:71:83:29:DA:02:84:3F:A1:9C:8A
+Valid until: miércoles, 17 de marzo de 2049
+----------
+Variant: debugUnitTest
+Config: debug
+Store: C:\Users\fran-kmiloo\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 4E:9F:4F:30:C5:F8:F0:C8:5C:FE:8A:90:AE:7D:93:94
+SHA1: 05:81:C5:6D:16:77:3B:E5:06:A5:A4:3B:7C:43:C2:77:31:EE:FE:81
+SHA-256: 3F:F8:4C:D2:24:5D:EC:F3:FD:48:D1:3F:B7:37:C6:01:AF:DF:BB:77:7F:2A:71:83:29:DA:02:84:3F:A1:9C:8A
+Valid until: miércoles, 17 de marzo de 2049
+----------
+Variant: releaseUnitTest
+Config: debug
+Store: C:\Users\fran-kmiloo\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 4E:9F:4F:30:C5:F8:F0:C8:5C:FE:8A:90:AE:7D:93:94
+SHA1: 05:81:C5:6D:16:77:3B:E5:06:A5:A4:3B:7C:43:C2:77:31:EE:FE:81
+SHA-256: 3F:F8:4C:D2:24:5D:EC:F3:FD:48:D1:3F:B7:37:C6:01:AF:DF:BB:77:7F:2A:71:83:29:DA:02:84:3F:A1:9C:8A
+Valid until: miércoles, 17 de marzo de 2049
+----------
+Variant: profileUnitTest
+Config: debug
+Store: C:\Users\fran-kmiloo\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 4E:9F:4F:30:C5:F8:F0:C8:5C:FE:8A:90:AE:7D:93:94
+SHA1: 05:81:C5:6D:16:77:3B:E5:06:A5:A4:3B:7C:43:C2:77:31:EE:FE:81
+SHA-256: 3F:F8:4C:D2:24:5D:EC:F3:FD:48:D1:3F:B7:37:C6:01:AF:DF:BB:77:7F:2A:71:83:29:DA:02:84:3F:A1:9C:8A
+Valid until: miércoles, 17 de marzo de 2049
+----------
+
+> Task :google_sign_in:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\fran-kmiloo\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 4E:9F:4F:30:C5:F8:F0:C8:5C:FE:8A:90:AE:7D:93:94
+SHA1: 05:81:C5:6D:16:77:3B:E5:06:A5:A4:3B:7C:43:C2:77:31:EE:FE:81
+SHA-256: 3F:F8:4C:D2:24:5D:EC:F3:FD:48:D1:3F:B7:37:C6:01:AF:DF:BB:77:7F:2A:71:83:29:DA:02:84:3F:A1:9C:8A
+Valid until: miércoles, 17 de marzo de 2049
+----------
+Variant: debugUnitTest
+Config: debug
+Store: C:\Users\fran-kmiloo\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 4E:9F:4F:30:C5:F8:F0:C8:5C:FE:8A:90:AE:7D:93:94
+SHA1: 05:81:C5:6D:16:77:3B:E5:06:A5:A4:3B:7C:43:C2:77:31:EE:FE:81
+SHA-256: 3F:F8:4C:D2:24:5D:EC:F3:FD:48:D1:3F:B7:37:C6:01:AF:DF:BB:77:7F:2A:71:83:29:DA:02:84:3F:A1:9C:8A
+Valid until: miércoles, 17 de marzo de 2049
+----------
+Variant: releaseUnitTest
+Config: debug
+Store: C:\Users\fran-kmiloo\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 4E:9F:4F:30:C5:F8:F0:C8:5C:FE:8A:90:AE:7D:93:94
+SHA1: 05:81:C5:6D:16:77:3B:E5:06:A5:A4:3B:7C:43:C2:77:31:EE:FE:81
+SHA-256: 3F:F8:4C:D2:24:5D:EC:F3:FD:48:D1:3F:B7:37:C6:01:AF:DF:BB:77:7F:2A:71:83:29:DA:02:84:3F:A1:9C:8A
+Valid until: miércoles, 17 de marzo de 2049
+----------
+Variant: profileUnitTest
+Config: debug
+Store: C:\Users\fran-kmiloo\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 4E:9F:4F:30:C5:F8:F0:C8:5C:FE:8A:90:AE:7D:93:94
+SHA1: 05:81:C5:6D:16:77:3B:E5:06:A5:A4:3B:7C:43:C2:77:31:EE:FE:81
+SHA-256: 3F:F8:4C:D2:24:5D:EC:F3:FD:48:D1:3F:B7:37:C6:01:AF:DF:BB:77:7F:2A:71:83:29:DA:02:84:3F:A1:9C:8A
+Valid until: miércoles, 17 de marzo de 2049
+----------
+
+> Task :path_provider_android:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\fran-kmiloo\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 4E:9F:4F:30:C5:F8:F0:C8:5C:FE:8A:90:AE:7D:93:94
+SHA1: 05:81:C5:6D:16:77:3B:E5:06:A5:A4:3B:7C:43:C2:77:31:EE:FE:81
+SHA-256: 3F:F8:4C:D2:24:5D:EC:F3:FD:48:D1:3F:B7:37:C6:01:AF:DF:BB:77:7F:2A:71:83:29:DA:02:84:3F:A1:9C:8A
+Valid until: miércoles, 17 de marzo de 2049
+----------
+Variant: debugUnitTest
+Config: debug
+Store: C:\Users\fran-kmiloo\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 4E:9F:4F:30:C5:F8:F0:C8:5C:FE:8A:90:AE:7D:93:94
+SHA1: 05:81:C5:6D:16:77:3B:E5:06:A5:A4:3B:7C:43:C2:77:31:EE:FE:81
+SHA-256: 3F:F8:4C:D2:24:5D:EC:F3:FD:48:D1:3F:B7:37:C6:01:AF:DF:BB:77:7F:2A:71:83:29:DA:02:84:3F:A1:9C:8A
+Valid until: miércoles, 17 de marzo de 2049
+----------
+Variant: releaseUnitTest
+Config: debug
+Store: C:\Users\fran-kmiloo\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 4E:9F:4F:30:C5:F8:F0:C8:5C:FE:8A:90:AE:7D:93:94
+SHA1: 05:81:C5:6D:16:77:3B:E5:06:A5:A4:3B:7C:43:C2:77:31:EE:FE:81
+SHA-256: 3F:F8:4C:D2:24:5D:EC:F3:FD:48:D1:3F:B7:37:C6:01:AF:DF:BB:77:7F:2A:71:83:29:DA:02:84:3F:A1:9C:8A
+Valid until: miércoles, 17 de marzo de 2049
+----------
+Variant: profileUnitTest
+Config: debug
+Store: C:\Users\fran-kmiloo\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 4E:9F:4F:30:C5:F8:F0:C8:5C:FE:8A:90:AE:7D:93:94
+SHA1: 05:81:C5:6D:16:77:3B:E5:06:A5:A4:3B:7C:43:C2:77:31:EE:FE:81
+SHA-256: 3F:F8:4C:D2:24:5D:EC:F3:FD:48:D1:3F:B7:37:C6:01:AF:DF:BB:77:7F:2A:71:83:29:DA:02:84:3F:A1:9C:8A
+Valid until: miércoles, 17 de marzo de 2049
+----------
+
+> Task :sqflite:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\fran-kmiloo\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 4E:9F:4F:30:C5:F8:F0:C8:5C:FE:8A:90:AE:7D:93:94
+SHA1: 05:81:C5:6D:16:77:3B:E5:06:A5:A4:3B:7C:43:C2:77:31:EE:FE:81
+SHA-256: 3F:F8:4C:D2:24:5D:EC:F3:FD:48:D1:3F:B7:37:C6:01:AF:DF:BB:77:7F:2A:71:83:29:DA:02:84:3F:A1:9C:8A
+Valid until: miércoles, 17 de marzo de 2049
+----------
+Variant: debugUnitTest
+Config: debug
+Store: C:\Users\fran-kmiloo\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 4E:9F:4F:30:C5:F8:F0:C8:5C:FE:8A:90:AE:7D:93:94
+SHA1: 05:81:C5:6D:16:77:3B:E5:06:A5:A4:3B:7C:43:C2:77:31:EE:FE:81
+SHA-256: 3F:F8:4C:D2:24:5D:EC:F3:FD:48:D1:3F:B7:37:C6:01:AF:DF:BB:77:7F:2A:71:83:29:DA:02:84:3F:A1:9C:8A
+Valid until: miércoles, 17 de marzo de 2049
+----------
+Variant: releaseUnitTest
+Config: debug
+Store: C:\Users\fran-kmiloo\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 4E:9F:4F:30:C5:F8:F0:C8:5C:FE:8A:90:AE:7D:93:94
+SHA1: 05:81:C5:6D:16:77:3B:E5:06:A5:A4:3B:7C:43:C2:77:31:EE:FE:81
+SHA-256: 3F:F8:4C:D2:24:5D:EC:F3:FD:48:D1:3F:B7:37:C6:01:AF:DF:BB:77:7F:2A:71:83:29:DA:02:84:3F:A1:9C:8A
+Valid until: miércoles, 17 de marzo de 2049
+----------
+Variant: profileUnitTest
+Config: debug
+Store: C:\Users\fran-kmiloo\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 4E:9F:4F:30:C5:F8:F0:C8:5C:FE:8A:90:AE:7D:93:94
+SHA1: 05:81:C5:6D:16:77:3B:E5:06:A5:A4:3B:7C:43:C2:77:31:EE:FE:81
+SHA-256: 3F:F8:4C:D2:24:5D:EC:F3:FD:48:D1:3F:B7:37:C6:01:AF:DF:BB:77:7F:2A:71:83:29:DA:02:84:3F:A1:9C:8A
+Valid until: miércoles, 17 de marzo de 2049
+----------
+
+> Task :url_launcher_android:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\fran-kmiloo\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 4E:9F:4F:30:C5:F8:F0:C8:5C:FE:8A:90:AE:7D:93:94
+SHA1: 05:81:C5:6D:16:77:3B:E5:06:A5:A4:3B:7C:43:C2:77:31:EE:FE:81
+SHA-256: 3F:F8:4C:D2:24:5D:EC:F3:FD:48:D1:3F:B7:37:C6:01:AF:DF:BB:77:7F:2A:71:83:29:DA:02:84:3F:A1:9C:8A
+Valid until: miércoles, 17 de marzo de 2049
+----------
+Variant: debugUnitTest
+Config: debug
+Store: C:\Users\fran-kmiloo\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 4E:9F:4F:30:C5:F8:F0:C8:5C:FE:8A:90:AE:7D:93:94
+SHA1: 05:81:C5:6D:16:77:3B:E5:06:A5:A4:3B:7C:43:C2:77:31:EE:FE:81
+SHA-256: 3F:F8:4C:D2:24:5D:EC:F3:FD:48:D1:3F:B7:37:C6:01:AF:DF:BB:77:7F:2A:71:83:29:DA:02:84:3F:A1:9C:8A
+Valid until: miércoles, 17 de marzo de 2049
+----------
+Variant: releaseUnitTest
+Config: debug
+Store: C:\Users\fran-kmiloo\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 4E:9F:4F:30:C5:F8:F0:C8:5C:FE:8A:90:AE:7D:93:94
+SHA1: 05:81:C5:6D:16:77:3B:E5:06:A5:A4:3B:7C:43:C2:77:31:EE:FE:81
+SHA-256: 3F:F8:4C:D2:24:5D:EC:F3:FD:48:D1:3F:B7:37:C6:01:AF:DF:BB:77:7F:2A:71:83:29:DA:02:84:3F:A1:9C:8A
+Valid until: miércoles, 17 de marzo de 2049
+----------
+Variant: profileUnitTest
+Config: debug
+Store: C:\Users\fran-kmiloo\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 4E:9F:4F:30:C5:F8:F0:C8:5C:FE:8A:90:AE:7D:93:94
+SHA1: 05:81:C5:6D:16:77:3B:E5:06:A5:A4:3B:7C:43:C2:77:31:EE:FE:81
+SHA-256: 3F:F8:4C:D2:24:5D:EC:F3:FD:48:D1:3F:B7:37:C6:01:AF:DF:BB:77:7F:2A:71:83:29:DA:02:84:3F:A1:9C:8A
+Valid until: miércoles, 17 de marzo de 2049
+----------
+
+Deprecated Gradle features were used in this build, making it incompatible with Gradle 7.0.
+Use '--warning-mode all' to show the individual deprecation warnings.
+See https://docs.gradle.org/6.7/userguide/command_line_interface.html#sec:command_line_warnings
+
+BUILD SUCCESSFUL in 5s
+6 actionable tasks: 6 executed

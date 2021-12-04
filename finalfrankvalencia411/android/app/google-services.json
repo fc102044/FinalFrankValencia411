@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "454126166803",
+    "project_id": "finalfrankvalencia411",
+    "storage_bucket": "finalfrankvalencia411.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454126166803:android:de8fe4b02186c370e030e6",
+        "android_client_info": {
+          "package_name": "com.example.finalfrankvalencia411"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454126166803-8dfggngq14rc8f3sms8ds48bit0h7qdn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.finalfrankvalencia411",
+            "certificate_hash": "0581c56d16773be506a5a43b7c43c27731eefe81"
+          }
+        },
+        {
+          "client_id": "454126166803-h95lpvs0ph8ddcbuol7u2t8a0dog6jdq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAztOBaTM7XLUI7F7NL0nWRrTBCZq_FiIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454126166803-h95lpvs0ph8ddcbuol7u2t8a0dog6jdq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
